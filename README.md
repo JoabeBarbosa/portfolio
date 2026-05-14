@@ -6,5 +6,5 @@ This repository contains my study and professional projects.
 
 ### Cardápio (Fullstack)
 - React + Vite + TypeScript
-- TanStack Query
+- TanStack Query + Axios
 - Spring Boot backend
